@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+tldextract
+usaddress
+python-Levenshtein  # optional, speeds up SequenceMatcher
